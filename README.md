@@ -35,17 +35,6 @@ headings, lists, tables, and sections.
 
 ![Resume Preview](screenshots/mitesh-resume-screenshort.png)
 
----
-
-## ⚠️ Disclaimer
-
-This project is created for educational and demonstration purposes only.
-All personal details, project descriptions, and contact information used in this
-website are sample data. Since this repository is public, no real personal
-information has been shared.
-
----
-
 ## 📄 License
 
 This project is open for educational use and learning purposes.
